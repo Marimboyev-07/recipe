@@ -1,0 +1,40 @@
+body{
+    background-color: bisque;
+}
+.a-1{
+    border: 20px ;
+    text-align: left;
+    background-color: white;
+    border-radius: 30px;
+    width: 550px;
+    position: relative;
+    left: 40%;
+    padding-left: 30px;
+    padding-right: 30px;
+
+}
+img{
+    border-radius: 20px;
+    padding-top: 20px;
+}
+.a-2{
+    background-color: rgb(241, 188, 243);
+    border-radius: 5px;
+    width: 450px;
+    position: relative;
+    left: 25px ;
+}
+#bir-xil{
+    color: rgb(226, 150, 58);
+}
+span{
+    color: rgb(226, 150, 58);
+}
+th{
+    border: 1px solid;
+    border-left: 0;
+    border-right: 0;
+    border-top: 0;
+    width: 400px;
+    text-align: left;
+}
